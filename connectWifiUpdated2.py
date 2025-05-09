@@ -4,8 +4,8 @@ import network
 import socket
 from time import sleep
 
-ssid = "Kearb"
-password = 'test1000'
+ssid = "****"
+password = '*******'
 
 def webpage():
     html = """
